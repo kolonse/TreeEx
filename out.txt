@@ -1,0 +1,4 @@
+TreeEx.exe
+doc.go
+main.go
+out.txt
